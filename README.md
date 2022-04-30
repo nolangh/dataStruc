@@ -1,2 +1,2 @@
 # dataStruc
-queu lab
+queue lab
